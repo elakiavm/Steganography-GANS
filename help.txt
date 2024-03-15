@@ -1,0 +1,9 @@
+pip install torch==1.0.0 torchvision==0.2.1 -f https://download.pytorch.org/whl/torch_stable.html
+pip install reedsolo==0.3
+pip install Pillow==6.2.1
+
+step1:open steg_base_enhance.py file in vs code 
+step2:after open the file next install necessary library for running the project.
+step3.need to change image path.
+step4.enter the input 
+step5.finally get decoded output                     
